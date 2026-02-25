@@ -1,16 +1,8 @@
+SYSTEM OVERVIEW
+The UniPool is a platform designed to connect university staff and students to facilitate shared commutes. By allowing vehicle owners to offer seats to those needing a ride, the system optimizes campus travel, reduces the environmental footprint, and eases parking demand. The following descriptions outline the specific requirements for both drivers and passengers within this ecosystem.
+
 USER STORY {Student\Staff Rider}
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+As a driver who is a member of the university staff or student body, I want to register my vehicle and post my recurring commute details including pickup points, departure times, and seat capacity so that I can seamlessly share my journey with others without the hassle of manual coordination. I also need the ability to review a potential passenger’s profile and campus rating before accepting their request to ensure that I maintain a safe and comfortable environment inside my vehicle. Furthermore, I want the system to automatically calculate and track the shared fuel contributions for every successful trip so that I can offset my travel costs fairly and transparently. Additionally, I want to earn Green Points for every shared trip I complete which are recorded to track my contribution to reducing the university collective carbon footprint and verify my individual carbon credit history.
+
 USER STORY {Student\Staff Driver}
-- Unipool is a duel facetted app that allows students or staffs to share their vehicle with the students & staffs from the same institution.
-- This allows lower volume of vehicle being used to travel to the same institution causing lower volume of CO2 emission
-- The owner of the vehicle benifits from the rewaard system of the app and also financial benifit due to sharing ride with the other student\staff.
-- 
+As a student or staff member looking for a ride, I want to search for available commutes using filters for arrival times and specific campus locations so that I can find a driver whose schedule aligns with my classes or office hours. Once a suitable ride is found, I want to request a seat and receive a real-time confirmation notification so that I can plan my morning with the confidence that my transportation is secured. I as female user, want the ability to apply specific safety filters such as a women only ride option and use mandatory live tracking and emergency alert features to ensure my security during late night travels. Also, I want the ability to rate my experience and provide feedback on the driver’s punctuality and safety after the trip ends to help build a reliable and trusted carpooling community for everyone on campus. Finally, I want to participate in the Green Points gamification system where my sustainable travel choices earn me rewards and contribute to a quantifiable history of my personal impact on environment.
