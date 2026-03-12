@@ -24,10 +24,4 @@ Target Users:
 - University Faculty
 
 # SDLC Overview
-
-Week 1 – Planning & Requirements  
-Week 2 – System Design & Wireframes  
-Week 3 – Prototype Development  
-Week 4 – Testing & Evaluation 
-Summary:
 The UniPool project followed an iterative approach through the planning, design, and testing phases. During the planning stage, the team organized the work into sprints and divided tasks equally among members to ensure effective collaboration. In the design phase, key system diagrams such as the use case diagram and class diagram were created to represent the system structure and user interactions. During testing and evaluation, the team used a Black Box Testing approach to assess the prototype from an end user perspective. Out of 15 test cases executed, the prototype successfully passed 9, resulting in a 60% success rate. This indicates that the system achieved a basic Minimum Viable Product (MVP) while also identifying areas that require further improvement.
